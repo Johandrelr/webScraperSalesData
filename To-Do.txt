@@ -1,0 +1,5 @@
+1. Function to Upload to master data to Google Sheets
+2. Add error catching and logging for example; if table is empty -> building sold out
+3. Look at python best practices and refactor code
+4. Add lists of buildings not yet for sale, and check with scraper 
+5. Look at creating an SQL database, or other types, instead of the csv files & text files
