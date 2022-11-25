@@ -1,4 +1,6 @@
 # webScraper
+(This is a public version, some files not here)
+
 This is my first python project. The objective is to scrape data from property developer site to compile 
 sales data for use in another application. 
 
