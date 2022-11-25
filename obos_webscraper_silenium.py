@@ -8,7 +8,7 @@ from selenium import webdriver
 import time
 import pandas as pd
 
-webDriverPath = 'C:\\Users\\johan\\Documents\\devTools\\chromedriver\\chromedriver.exe'
+webDriverPath = '\\chromedriver\\chromedriver.exe'
 dataFrames = []
 buildings = []
 
